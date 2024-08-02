@@ -1,0 +1,11 @@
+**************************************** OPTIONAL ***********************************************
+- As part of updates in optional, following things were added
+
+# Optional Methods
+> IfPresentOrElse() - alternate to if present & orElse method
+> OrElseThrow() - another variant to throwing exception but here we dont need to provide message [Inbuilt exception will be thrown]
+> Or() - method to provide optional value if missing
+> isEmpty() - method to check if value is present 
+
+# Chaining Methods
+**> stream() - it is used in case if multiple elements where wrapped and provided in input 
