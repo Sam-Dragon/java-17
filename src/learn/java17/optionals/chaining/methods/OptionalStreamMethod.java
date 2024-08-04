@@ -1,4 +1,4 @@
-package learn.java17.optional.chaining.methods;
+package learn.java17.optionals.chaining.methods;
 
 import java.util.Arrays;
 import java.util.List;

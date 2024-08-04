@@ -1,4 +1,4 @@
-package learn.java17.optional.unwrapping.methods;
+package learn.java17.optionals.unwrapping.methods;
 
 import java.util.Optional;
 import java.util.Scanner;

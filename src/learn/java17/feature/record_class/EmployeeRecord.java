@@ -1,4 +1,4 @@
-package learn.java17.feature.record;
+package learn.java17.feature.record_class;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
