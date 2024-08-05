@@ -13,3 +13,15 @@
 
 > Methods
 - It can define any kind of method inside the record
+
+# Switch Expression
+- It can be used directly using case statement
+- In case of multiple lines of execution, 'yield' can be used at last to return the result
+- nulls are allowed in switch expression
+
+# Packages
+sun.misc.Unsafe class is removed, access all packages from java.util.*
+
+
+# Additional
+- More descriptive exception messages
